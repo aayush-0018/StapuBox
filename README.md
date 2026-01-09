@@ -4,6 +4,8 @@ A dockerized backend service built with **Spring Boot** and **MySQL** to manage 
 
 This project simulates a real-world sports turf / ground booking system and follows clean backend architecture principles.
 
+📎 **POSTMAN APIs:**  
+https://drive.google.com/file/d/1RrmSzUTm637y72rX4x77KHYutwy76eRu/view?usp=sharing
 ---
 
 ## 🚀 Tech Stack

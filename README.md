@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1RrmSzUTm637y72rX4x77KHYutwy76eRu/view?usp=shari
 - `sport_id` (external ID)
 - `sport_code`
 - `sport_name`
-
+Note: External IDs belong to an external system and may change or expand independently, therefore they are stored for reference while internal database IDs are used within the application.
 This ensures the system always remains aligned with the external source.
 
 ---
